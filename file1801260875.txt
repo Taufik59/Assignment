@@ -1,0 +1,9 @@
+Employee First Name     :Rahul
+Middle Name     :Ratan
+Last Name     :Singh
+Email Information :rahul@yahoo.com
+Employee Designation :programmer
+Employee ID:1801260875
+Employee DOB:25/04/1996
+Employee Gender:Male
+Employee Contact  :9232376498

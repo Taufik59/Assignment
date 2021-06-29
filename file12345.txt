@@ -1,0 +1,10 @@
+
+Employee First Name     :Rahul
+Middle Name     :Ratan
+Last Name     :Yadav
+Email Information :akil@yahoo.com
+Employee Designation :programmer
+Employee ID:12345
+Employee DOB:25/11/1996
+Employee Gender:Male
+Employee Contact  :123456789

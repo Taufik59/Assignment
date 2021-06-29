@@ -1,0 +1,9 @@
+Employee First Name     :Akil
+Middle Name     :sh
+Last Name     :srg
+Email Information :dtdtyd@dtf.com
+Employee Designation :prg
+Employee ID:123
+Employee DOB:15/11/2001
+Employee Gender:male
+Employee Contact  :91123456789
